@@ -1,6 +1,8 @@
 "use strict";
 
 
+//TODO: First task
+
 const numberOfFilms = +prompt("Скільки фільмів подивилися?", "");
 
 const personalMovieDB = {
